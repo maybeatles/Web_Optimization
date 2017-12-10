@@ -8,7 +8,7 @@
 
 ####Part 1: 优化 index.html 的 PageSpeed Insights 得分
 
-1. inline css: 复制CSS内容到HTML <style> 标签
+1. inline css: 复制CSS内容到HTML <style> 标签；
 2.下载图片到本地，并压缩图片；
 3. 部署网页到github.io, 查看pagespeed insight 得分； 网页链接：
 
