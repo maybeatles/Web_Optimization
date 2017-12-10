@@ -11,6 +11,7 @@
 1. inline css: 复制CSS内容到HTML <style> 标签；
 2.下载图片到本地，并压缩图片；
 3. 部署网页到github.io, 查看pagespeed insight 得分； 网页链接：
+  https://maybeatles.github.io/Web_Optimization/
 
 ----
 
